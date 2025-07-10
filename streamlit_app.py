@@ -1,4 +1,4 @@
-import streamlit as st
+THIS SHOULD BE A LINTER ERRORimport streamlit as st
 
 st.title("🎈 My new app")
 st.write(
